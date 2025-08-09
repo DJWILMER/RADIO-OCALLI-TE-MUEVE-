@@ -1,0 +1,20 @@
+{
+  "name": "Radio Ocalli -Te Mueve",
+  "short_name": "Radio Ocalli",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/dwNsD3yj/RADIO-OCALLI.png.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/dwNsD3yj/RADIO-OCALLI.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
